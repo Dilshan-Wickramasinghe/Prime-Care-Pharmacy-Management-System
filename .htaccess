@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^loging-your-session?$ index.php
+
